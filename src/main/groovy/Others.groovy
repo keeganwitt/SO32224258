@@ -1,0 +1,2 @@
+class Mail { }
+class SentTrigger { }
